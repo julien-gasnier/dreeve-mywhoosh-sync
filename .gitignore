@@ -1,0 +1,6 @@
+.DS_Store
+state/
+*.bak
+.env
+.env.*
+!.env.example
